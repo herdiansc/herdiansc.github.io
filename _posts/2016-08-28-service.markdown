@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Service"
+date:   2016-08-28 20:33:13 +0700
+categories: it-services
+---
+
+A means of delivering value to [Customers](/it-services/customer.html) by facilitating [Outcomes Customers](/it-services/outcomes-customer) want to achieve without the ownership of specific [Costs](/it-services/cost) and [Risks](/it-services/risk).
+
